@@ -1,0 +1,9 @@
+.header-h1{
+    color: antiquewhite;
+    font-family: 'Roboto Condensed', Sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    /* Border-style solid; */
+    margin:auto;
+    /* border-radius : 15px; */
+}
